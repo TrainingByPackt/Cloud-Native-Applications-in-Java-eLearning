@@ -1,0 +1,4 @@
+com/mycompany/product/ProductService.class
+com/mycompany/product/entity/Product.class
+com/mycompany/product/dao/ProductRepository.class
+com/mycompany/product/ProductSpringApp.class

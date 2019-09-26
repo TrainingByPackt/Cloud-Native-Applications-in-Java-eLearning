@@ -1,0 +1,12 @@
+{
+   "AWSEBDockerrunVersion":"1",
+   "Image":{
+      "Name":"xxxxxxxxxxxxxxx.dkr.ecr.us-east-2.amazonaws.com/product-api",
+      "Update":"true"
+   },
+   "Ports":[
+      {
+         "ContainerPort":"8080"
+      }
+   ]
+}
